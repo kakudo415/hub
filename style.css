@@ -27,6 +27,7 @@ body {
 			#main > div > a {
 				color: #0044CC;
 				text-decoration: none;
+				outline: none;
 			}
 			#main > div > a:hover {
 				text-decoration: underline;
