@@ -9,9 +9,10 @@ body {
 			padding: 8px;
 			max-width: 960px;
 		}
-			#header > div > h1 {
-				margin: 0;
-				font-size: 32px;
+			#header > div > img {
+				display: block;
+				height: 36px;
+				width: auto;
 			}
 	#main {
 		margin: 0 auto;
@@ -34,8 +35,8 @@ body {
 		#header > div {
 			padding: 6px;
 		}
-			#header > div > h1 {
-				font-size: 24px;
+			#header > div > img {
+				height: 27px;
 			}
 		#main > div {
 			padding: 6px;
