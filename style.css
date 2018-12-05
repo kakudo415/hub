@@ -17,11 +17,13 @@ header > div > h1 {
 }
 
 /* Main */
-main {}
+main {
+  margin: 1rem 0;
+}
 main > h2 {
   max-width: 1024px;
-  margin: 0 auto;
-  padding: 1rem;
+  margin: 1rem auto;
+  padding: 0 1rem;
   font-size: 1.375rem;
 }
 main > div {
