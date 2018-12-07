@@ -39,6 +39,7 @@ main > div > a {
   padding: 1rem;
   border: 1px solid #0001;
   border-radius: 1rem;
+  transition-property: border;
   transition-duration: 200ms;
 }
 main > div > a:hover {
