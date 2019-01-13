@@ -9,7 +9,6 @@ h1, h2, h3 {
 
 header {
   background: #FFF;
-  border-bottom: 1px solid #0002;
 }
 header > div, main > div {
   max-width: 1440px;
@@ -39,7 +38,6 @@ main > div > div:nth-of-type(2n) > a {
   padding: 1rem;
   display: block;
   background: #FFF;
-  border: 1px solid #0002;
 }
 main > div > div:nth-of-type(2n) > a:hover {
   background: #FAFAFA;
@@ -62,15 +60,6 @@ main > div > div:nth-of-type(2n) > a > p {
 @media (max-width: 960px) {
   html {
     font-size: 14px;
-  }
-  header {
-    padding: 0.5rem 0.5rem 0;
-    background: transparent;
-    border: none;
-  }
-  header > div {
-    background: #FFF;
-    border: 1px solid #0002;
   }
   main > div {
     padding: 0.5rem;
