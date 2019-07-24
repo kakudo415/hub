@@ -15,6 +15,14 @@ header > div, main > div {
   margin: 0 auto;
   padding: 1rem;
 }
+header > div {
+  display: flex;
+}
+header > div > img {
+  height: 1.375rem;
+  width: auto;
+  margin-right: 0.375rem;
+}
 header > div > h1 {
   color: #000A;
   font-size: 1.375rem;
